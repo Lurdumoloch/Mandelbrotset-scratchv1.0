@@ -23,6 +23,7 @@ space to switch between 2 colour modes.
 ## Try it
 
 "Open the project on TurboWarp"
+[here](https://turbowarp.org/1438400949/fullscreen?fps=60&hqpen&stuck)
 
 Built with Turbowarp
 
