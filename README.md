@@ -10,7 +10,9 @@ arrow keys to move + - to zoom (it zooms to mouse pos)
 space to switch between 2 colour modes.
 
 ## Screenshots
+<img width="816" height="640" alt="Screenshot_20261110_114206_Ecosia" src="https://github.com/user-attachments/assets/881b750d-45a9-44b7-965e-f8afb7aa780e" />
 
+<img width="819" height="614" alt="Screenshot_20261110_114347_Ecosia" src="https://github.com/user-attachments/assets/3625c75e-3aad-40a3-b5fc-09ca06916860" />
 
 
 ## Try it
