@@ -28,3 +28,4 @@ Built with Turbowarp
 
 
 Have fun exploring!
+<img width="869" height="652" alt="Screenshot_20261110_115010_Ecosia" src="https://github.com/user-attachments/assets/4a78fded-8550-4cfd-8d9e-a73eaa63435d" />
