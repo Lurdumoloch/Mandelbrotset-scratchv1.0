@@ -26,7 +26,7 @@ space to switch between 2 colour modes.
 [here](https://turbowarp.org/1438400949/fullscreen?fps=60&hqpen&stuck)
 
 Built with Turbowarp
-
+to speed stuff up there is a loop that renders first at low quality and then more detail in Turbowarp that's most times not visible.
 
 Have fun exploring!
 <img width="869" height="652" alt="Screenshot_20261110_115010_Ecosia" src="https://github.com/user-attachments/assets/4a78fded-8550-4cfd-8d9e-a73eaa63435d" />
